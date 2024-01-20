@@ -7,6 +7,7 @@ cwd = os.getcwd()
 print("Current working directory:", cwd)
 
 
+
 """
 para crear un archivo
 

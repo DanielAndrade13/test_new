@@ -9,6 +9,8 @@ print("Current working directory:", cwd)
 
 
 """
+"""
+"""
 para crear un archivo
 
 f = "my_life.txt"
